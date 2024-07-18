@@ -18,4 +18,4 @@ Languages
 
 Capability
 ----------
-![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)  ![ros](https://img.shields.io/badge/ros-black?style=for-the-badge&logo=ros) ![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
+![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)  ![ros](https://img.shields.io/badge/ros-black?style=for-the-badge&logo=ros) ![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite) ![pytorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)
